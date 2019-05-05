@@ -1,0 +1,105 @@
+@media all and (max-width: 750px) {
+
+  .top-message {
+    width: 100%;
+  }
+
+  .top-message h1 {
+    font-size: 24px;
+  }
+
+  .top-message p {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3px;
+  }
+
+
+  .top-link-wrapper {
+    width: 100%;
+  }
+
+  .top-link-wrapper h3 {
+    margin: 20px auto;
+  }
+
+
+  .wall-wrapper {
+    padding: 3vw 5vw;
+  }
+
+  .wall-word-wrapper{
+    padding-left: 0px;
+  }
+
+  .wall-word-wrapper .title {
+    letter-spacing: 4px;
+    font-size: 36px;
+  }
+
+  .wall-message{
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+
+  .feature-wapper {
+    width: 90%;
+  }
+
+  .feature-title {
+    font-size: 30px;
+    letter-spacing: 3px;
+  }
+
+  .feature {
+    width:100%;
+    margin:12px auto;
+  }
+
+  .catch-phrase-wrapper {
+    width: 90%;
+    letter-spacing: 3px;
+    text-align: center;
+    margin:0 auto;
+  }
+
+  .catch-phrase {
+    font-size:20px;
+    line-height: 48px;
+  }
+
+
+  .all-power-wrapper {
+  }
+
+  .all-power-title {
+    font-size: 30px;
+    letter-spacing: 3px;
+  }
+
+  .power {
+    width: 100%;
+  }
+
+  .power-message-wrapper{
+    margin:12p auto;
+  }
+
+  .power-message{
+    margin:0 auto;
+  }
+
+  .resister-form-buttun{
+    font-size: 30px;
+    padding: 10px 40px;
+  }
+
+  .last-phrase {
+    font-size: 28px;
+    letter-spacing: 3px;
+    line-height: 48px;
+    margin: 48px auto;
+  }
+
+}
